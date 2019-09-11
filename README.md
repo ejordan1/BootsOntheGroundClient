@@ -17,7 +17,7 @@ This is a modular system that makes it possible to create dynamic units that had
 operate based on multiple conditions simultaneously.
 
 The inspiration for this project was complex AI interactions, and I decided I wanted to preempt any limitation I might unknowingly create in the engine;
-so the first thing I did was spent a week coming up with a list of 150 of the most complex and bizzare-ly behaving units I could brainstorm.
+so the first thing I did brainstorm a list of 150 of the most complex and obscure-ly behaving units I could think of.
 I then abstracted these into the ability interface and target priority system that was the basis for the engine.
 
 ## Technologies Used
