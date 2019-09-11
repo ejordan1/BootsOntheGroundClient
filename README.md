@@ -8,7 +8,7 @@
 
 _Players place AI units with complex abilities and upgrades in formations and watch as the battle unfolds.
 
-I did this this project to learn the skills involved in making a complex deterministic online multiplayer game in MVC
+I did this this project to learn the skills involved in making a complex deterministic scalable online multiplayer game in MVC
 using dependency injection. 
 Once I had achieved this learning I did not pursue this project further.
 
