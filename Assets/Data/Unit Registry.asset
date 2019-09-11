@@ -1,0 +1,359 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5b95e83ae183f4c9ae7e85ffcf829d, type: 3}
+  m_Name: Unit Registry
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: Spartan
+    initialHP: 100
+    initialArmor: 50
+    initialRange: 10
+    initialMoveSpeed: 3
+    initialSize: 5
+    initialWeight: 5
+    initialCost: 5
+    initialMoveRange: 2
+    resourceID: Spartan
+    abilityIDs:
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.unitTickUpdate
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.move
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.makeArrow
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.meleeHit
+    unitType: 1
+  - Name: Mage
+    initialHP: 80
+    initialArmor: 5
+    initialRange: 12
+    initialMoveSpeed: 5
+    initialSize: 5
+    initialWeight: 5
+    initialCost: 5
+    initialMoveRange: 15
+    resourceID: Mage
+    abilityIDs:
+    - AbilityOverride: 1
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.move
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.unitTickUpdate
+    unitType: 2
+  - Name: Barbarian
+    initialHP: 100
+    initialArmor: 40
+    initialRange: 5
+    initialMoveSpeed: 5
+    initialSize: 5
+    initialWeight: 5
+    initialCost: 5
+    initialMoveRange: 1
+    resourceID: Barbarian
+    abilityIDs:
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: ability.movementability
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.unitTickUpdate
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: ability.movementability
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.move
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: ability.movementability
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.meleeHit
+    unitType: 3
+  - Name: Archer
+    initialHP: 100
+    initialArmor: 25
+    initialRange: 5
+    initialMoveSpeed: 5
+    initialSize: 5
+    initialWeight: 5
+    initialCost: 5
+    initialMoveRange: 10
+    resourceID: zUnit1
+    abilityIDs:
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.unitTickUpdate
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.move
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.laserArrow
+    unitType: 4
+  - Name: Giant
+    initialHP: 200
+    initialArmor: 50
+    initialRange: 5
+    initialMoveSpeed: 5
+    initialSize: 5
+    initialWeight: 5
+    initialCost: 5
+    initialMoveRange: 1
+    resourceID: zUnit2
+    abilityIDs:
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.unitTickUpdate
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.move
+    - AbilityOverride: 0
+      AbilityOverrideData:
+        Name: 
+        AbilityType: 
+        range:
+          _rawValue: 0
+        castTime:
+          _rawValue: 0
+        cooldownTime:
+          _rawValue: 0
+        string1: 
+        targetPriority: 0
+        int1: 0
+        int2: 0
+        float1:
+          _rawValue: 0
+        float2:
+          _rawValue: 0
+      AbilityId: ability.meleeHit
+    unitType: 4

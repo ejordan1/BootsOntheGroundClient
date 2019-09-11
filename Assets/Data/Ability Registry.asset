@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d706dc0291a04a00a2957590f963717, type: 3}
+  m_Name: Ability Registry
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: ability.unitTickUpdate
+    AbilityType: Model.Abilities.UnitUpdateAbility
+    range:
+      _rawValue: 0
+    castTime:
+      _rawValue: 0
+    cooldownTime:
+      _rawValue: 0
+    string1: 
+    targetPriority: 0
+    int1: 0
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+  - Name: ability.move
+    AbilityType: Model.Abilities.MovementAbility
+    range:
+      _rawValue: 0
+    castTime:
+      _rawValue: 0
+    cooldownTime:
+      _rawValue: 0
+    string1: 
+    targetPriority: 0
+    int1: 0
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+  - Name: ability.simplefoedetection
+    AbilityType: Model.Abilities.FoeDetectorAbility
+    range:
+      _rawValue: 0
+    castTime:
+      _rawValue: 0
+    cooldownTime:
+      _rawValue: 0
+    string1: 
+    targetPriority: 4
+    int1: 0
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+  - Name: ability.meleeHit
+    AbilityType: Model.Abilities.MeleeHitAbility
+    range:
+      _rawValue: 2
+    castTime:
+      _rawValue: 1
+    cooldownTime:
+      _rawValue: 0.2
+    string1: 
+    targetPriority: 5
+    int1: -20
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+  - Name: ability.makeArrow
+    AbilityType: Model.Abilities.MakeProjectileAbility
+    range:
+      _rawValue: 20
+    castTime:
+      _rawValue: 0.2
+    cooldownTime:
+      _rawValue: 0.3
+    string1: Arrow
+    targetPriority: 4
+    int1: 0
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+  - Name: ability.laserArrow
+    AbilityType: Model.Abilities.MakeProjectileAbility
+    range:
+      _rawValue: 20
+    castTime:
+      _rawValue: 0.1
+    cooldownTime:
+      _rawValue: 1
+    string1: LaserArrow
+    targetPriority: 6
+    int1: -15
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+  - Name: ability.splashShield
+    AbilityType: Model.Abilities.ShieldSplashAbility
+    range:
+      _rawValue: 10
+    castTime:
+      _rawValue: 0.1
+    cooldownTime:
+      _rawValue: 2
+    string1: 
+    targetPriority: 10
+    int1: 40
+    int2: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0

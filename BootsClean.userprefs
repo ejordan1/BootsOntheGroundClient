@@ -1,0 +1,96 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapSetup/CoreClientAssetes/Chat/ChatClient.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/Chat/ChatClient.cs" Line="78" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/Formation.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/ProjectileManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/StaticMapCreateData.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/Arrange.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/MapModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/Design.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Data/AbilityVariablesRegistry.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Utils/MyExtensions.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/MapRequest.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/MapModelJson.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/MapResponse.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/Home.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/Login.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/LoginModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/LoginResponse.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/MapArrangement.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/Response.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Bootstrap/MainInstaller.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/TickService.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/CommandProcessor.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/MapCreatePage.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/PrePlacement.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/View/ProjectileView.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/View/WorldView.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/Score/ScoreDemo.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/Score/ScoreModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/MapLoaderService.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/UnitManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/Units/UnitModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/ArrangeSelect.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/Publish.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/BridgeData.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/StaticAllData.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Services/MapManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/WorldModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Bootstrap/MapCreateInstaller.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Bootstrap/LoginInstaller.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/View/KeyViewResourceFactory.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Factories/IFactory.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/View/MapView.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Editor/NewEditModeTest.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Bootstrap/MapContinueInstaller.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Main/DiContainer.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Runtime/Kernels/MonoKernel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Internal/Assert.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/UnitPrepManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/LevelLoaderService.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/HistoryManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/LevelLoadMapService.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/BattleEndCheckCommand.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Buffs/BuffData.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Buffs/Buffs.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Buffs/IBuff.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/CC/CCData.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/FoeDetectorAbility.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/MeleeHitAbility.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/AbstractTickAbility.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/View/ZoneView.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/View/ZzfragView.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/Chat/ChatModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/ChatPractice/InviteDemo.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/ChatPractice/InviteModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/ChatPractice/Invite.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/Chat/ChatDemo.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Commands/GameCommand.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Commands/IGameCommand.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Commands/RemoveProjectileCommand.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Commands/HPChangeCommand.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/Services/Commands/DieCommand.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/doStuffTestScript.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/UserRequestModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/PartyActionModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/MapSuggestionModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/InviteModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/LoadUnitsModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/BasicCallModel.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MapSetup/Model/PlayerStateModel.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="34" Y="764" Width="640" Height="378">
+        <Files>
+          <File FileName="Assets/Scripts/MapSetup/CoreClientAssetes/Data/LoginModel.cs" Line="10" Column="10" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

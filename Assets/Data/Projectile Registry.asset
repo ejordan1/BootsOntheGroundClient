@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ebd449fe966d457b8d57bdbcc360d91, type: 3}
+  m_Name: Projectile Registry
+  m_EditorClassIdentifier: 
+  Data:
+  - Name: Arrow
+    projectileType: Model.Projectiles.Arrow
+    projectileHP: 1
+    speed:
+      _rawValue: 7
+    range:
+      _rawValue: 1
+    resourceID: Arrow
+    int1: -5
+    int2: 0
+    int3: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+    float3:
+      _rawValue: 0
+  - Name: LaserArrow
+    projectileType: Model.Projectiles.Arrow
+    projectileHP: 1
+    speed:
+      _rawValue: 100
+    range:
+      _rawValue: 1
+    resourceID: Arrow
+    int1: -20
+    int2: 0
+    int3: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+    float3:
+      _rawValue: 0
+  - Name: SplashHeal
+    projectileType: Model.Projectiles.SplashAllies
+    projectileHP: 1
+    speed:
+      _rawValue: 3
+    range:
+      _rawValue: 1
+    resourceID: Arrow
+    int1: 15
+    int2: 0
+    int3: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+    float3:
+      _rawValue: 0
+  - Name: SplashDmg
+    projectileType: Model.Projectiles.SplashEnemies
+    projectileHP: 1
+    speed:
+      _rawValue: 3
+    range:
+      _rawValue: 1
+    resourceID: Arrow
+    int1: -6
+    int2: 0
+    int3: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+    float3:
+      _rawValue: 0
+  - Name: BuffDmg
+    projectileType: Model.Projectiles.BuffDmg
+    projectileHP: 1
+    speed:
+      _rawValue: 3
+    range:
+      _rawValue: 1
+    resourceID: Arrow
+    int1: -20
+    int2: 0
+    int3: 0
+    float1:
+      _rawValue: 0
+    float2:
+      _rawValue: 0
+    float3:
+      _rawValue: 0

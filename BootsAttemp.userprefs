@@ -1,0 +1,111 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupConfiguration="{831A5EA2-31A0-2055-DF44-E5DADAD64C60}|" StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.ItemProperties.BootsAttemp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Model/Abilities/BuffAbility2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/AbilityCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/CommandProcessor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityMakerAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/AllianceType.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/ProjectileManager.cs" Line="50" Column="36" />
+      <File FileName="Assets/Scripts/Model/Abilities/FormationTargetAbility2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/AbilityRepository.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/UnitManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/BuffAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/DieCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/UnitRegistry.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/AIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utils/MyExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/WorldPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/FoeDetectorAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Internal/TypeExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/BuffTargetCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/LevelLoaderService.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Units/UnitModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/BuffAbility2.cs" Line="37" Column="3" />
+      <File FileName="Assets/Scripts/Services/Buffs/IBuff.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Buffs/Buffs.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/View/KeyViewResourceFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/View/UnitView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/View/WorldView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/RootCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/CC/CCData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Buffs/BuffData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/SelectTargetCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bootstrap/MainInstaller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/MovementAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/FreezeCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/KnockUpCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/LaunchCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/HookCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/PetrifyCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/SilenceCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/GameCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/WorldModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/IGameCommand.cs" Line="18" Column="2" />
+      <File FileName="Assets/Scripts/Services/Commands/ReviveCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/HPChangeCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/AI/CompositeProperty.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/ResurrectCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/ResurrectAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Main/DiContainer.cs" Line="1" Column="1" />
+      <File FileName="../BootsAttemp copy/Assets/Scripts/Model/UnitManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/SpawnUnitsAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/SpawnUnitCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/UniRx/Scripts/Observable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/UniRx/Scripts/Operators/Where.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Utils/MathExtensions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/ProjectileRepository.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/RegistryData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Projectiles/BuffDmg.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Projectiles/ProjectileModel.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Projectiles/IProjectile.cs" Line="10" Column="3" />
+      <File FileName="Assets/Scripts/Model/Projectiles/ProjectileState.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/TickService.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/CommanderAbility2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/CommanderAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/FormationTargetAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/AI/ITarget.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Editor/UnitViewEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Editor/AbilityIdDrawer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/ProjectileRegistry.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/View/ProjectileView.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/MeleeHitAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/TemplateAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Projectiles/SplashAllies.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Projectiles/SplashEnemies.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Projectiles/Arrow.cs" Line="47" Column="17" />
+      <File FileName="Assets/Plugins/Zenject/Source/Internal/Assert.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/HistoryManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Data/AbilityVariablesRegistry.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/ShieldSplashAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/AbstractTickAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/ResetService.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/Receivers!.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/MakeProjectileAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/BattleEndCheckCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/Commands/RemoveProjectileCommand.cs" Line="10" Column="2" />
+      <File FileName="Assets/Plugins/Zenject/Source/Providers/CachedProvider.cs" Line="39" Column="1" />
+      <File FileName="Assets/Plugins/UniRx/Scripts/Disposables/Disposable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Usage/ITickable.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Usage/ZenjectAllowDuringValidationAttribute.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/AI/EventObj.cs" Line="1" Column="1" />
+      <File FileName="Assets/Plugins/Zenject/Source/Usage/ILateDisposable.cs" Line="9" Column="2" />
+      <File FileName="Assets/Scripts/Services/Commands/StatChangeCommand.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Services/StatChange/HPChangeData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/UnitUpgrade1Ability.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/IAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/ICastingAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/ITargetAbility.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/Abilities/AbilityStuff/ITickAbility.cs" Line="12" Column="2" />
+      <File FileName="Assets/EmptyClass.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Shared/Unity/Simple Command/Simple Command 2/BootsAttemp/Assets/Scripts/Utils/MyExtensions.cs" line="129" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

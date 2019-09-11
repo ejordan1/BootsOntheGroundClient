@@ -1,0 +1,207 @@
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.pdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/nunit.framework.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/websocket-sharp.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.Cecil.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.TestRunner.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.TestRunner.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/nunit.framework.pdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/nunit.framework.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Timeline.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Timeline.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.UIAutomation.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.UIAutomation.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.UIAutomation.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.SpatialTracking.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEngine.Purchasing.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/obj/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/Shared/Unity/Simple Command/Simple Command 2/BootsClean/obj/Debug/Assembly-CSharp-Editor-firstpass.pdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Assembly-CSharp-Editor-firstpass.pdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/nunit.framework.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Advertisements.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Analytics.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Graphs.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.HoloLens.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Networking.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Purchasing.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.SpatialTracking.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.TestRunner.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Timeline.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.TreeEditor.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.UIAutomation.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.VR.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/websocket-sharp.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.Cecil.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.UI.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Networking.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Networking.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.TestRunner.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.TestRunner.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.TestRunner.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/nunit.framework.pdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/nunit.framework.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Timeline.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Timeline.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.TreeEditor.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.TreeEditor.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.UIAutomation.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.UIAutomation.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.UIAutomation.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.UIAutomation.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.HoloLens.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.HoloLens.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.SpatialTracking.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.SpatialTracking.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.VR.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.VR.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Graphs.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Advertisements.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Analytics.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEngine.Purchasing.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.Purchasing.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.xml
+/Users/Ej/Desktop/BootsZgsClient copy/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll.mdb
+/Users/Ej/Desktop/BootsZgsClient copy/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojResolveAssemblyReference.cache
+/Users/Ej/Desktop/BootsZgsClient copy/obj/Debug/Assembly-CSharp-Editor-firstpass.csproj.CoreCompileInputs.cache
+/Users/Ej/Desktop/BootsZgsClient copy/obj/Debug/Assembly-CSharp-Editor-firstpass.dll
+/Users/Ej/Desktop/BootsZgsClient copy/obj/Debug/Assembly-CSharp-Editor-firstpass.pdb
