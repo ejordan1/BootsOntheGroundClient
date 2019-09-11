@@ -6,7 +6,7 @@
 
 ## Description
 
-Players place AI units with complex abilities and upgrades in formations and watch as the battle unfolds.
+Players place AI units with abilities and upgrades in formations and watch as the battle unfolds.
 
 I did this this project to learn the skills involved in making a complex deterministic scalable online multiplayer game in MVC
 using dependency injection. 
@@ -16,8 +16,7 @@ Unit creation is based on attaching ability scripts to target-selection scripts.
 This is a modular system that makes it possible to create dynamic units that had multiple behaviors that
 operate based on multiple conditions simultaneously.
 
-The inspiration for this project was complex AI interactions, and I decided I wanted to preempt any limitation I might unknowingly create in the engine;
-so the first thing I did brainstorm a list of 150 of the most complex and obscure-ly behaving units I could think of.
+The inspiration for this project was complex AI interactions. I  I wanted to preempt any limitation I might unknowingly create in the engine, so I first brainstormed a list of 150 of the most obscure unit abilities I could think of.
 I then abstracted these into the ability interface and target priority system that was the basis for the engine.
 
 ## Technologies Used
