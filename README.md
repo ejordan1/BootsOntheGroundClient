@@ -18,7 +18,7 @@ operate based on multiple conditions simultaneously.
 
 The inspiration for this project was complex AI interactions, and I decided I wanted to preempt any limitation I might unknowingly create in the engine;
 so the first thing I did was spent a week coming up with a list of 150 of the most complex and bizzare-ly behaving units I could brainstorm.
-I then abstracted these and created the ability interface and target priority system that I used as the basis for unit creation.
+I then abstracted these into the ability interface and target priority system that was the basis for the engine.
 
 ## Technologies Used
 
