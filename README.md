@@ -1,6 +1,6 @@
 # _Boots On the Ground_
 
-#### _Complex AI battles_
+#### _Complex AI Battles: online multiplayer, deterministic, MVC, dependency injection_
 
 #### By _**Emerson Jordan**_
 
